@@ -1,0 +1,34 @@
+{
+  "version_code": 5018,
+  "version_name": "1.7.4",
+  "force_update": false,
+  "release_url": "https://github.com/SoundWave-labs/SoundWave/releases/tag/v1.7.4",
+  "changelog": [
+    "Added French & Arabic languages in Settings (with fixed LTR layout)",
+    "Offline M4A Downloads are now 100% FREE for all users",
+    "Playlists, Favorites, History, Backup & Studio Themes remain in SoundWave Pro"
+  ],
+  "apks": {
+    "arm64-v8a": {
+      "url": "https://github.com/SoundWave-labs/SoundWave/releases/download/v1.7.4/SoundWave-v1.7.4-arm64-v8a.apk",
+      "sha256": "bc6192e1e30dd5a409785c157ccc1c8b79b379df92501c9c2e39b343aaf956d8"
+    },
+    "armeabi-v7a": {
+      "url": "https://github.com/SoundWave-labs/SoundWave/releases/download/v1.7.4/SoundWave-v1.7.4-armeabi-v7a.apk",
+      "sha256": "a228b599b6f5d37604d531fdd5d5e92c4d7a516c192db2783ab44d9077a9b7eb"
+    },
+    "x86_64": {
+      "url": "https://github.com/SoundWave-labs/SoundWave/releases/download/v1.7.4/SoundWave-v1.7.4-x86_64.apk",
+      "sha256": "b4c3745090e0edce72ecccc0d7b688ca6471525beeaa774e14360e6db1e13930"
+    }
+  },
+  "linux": {
+    "x86_64": {
+      "url": "https://github.com/SoundWave-labs/SoundWave/releases/download/v1.7.4/SoundWave-v1.7.4-linux-x64.tar.gz",
+      "sha256": "a0a4ef13ec3ee2aacb2d4e655aa42967abf36e93a561e4175fbbbee0211f80e0",
+      "deb_url": "https://github.com/SoundWave-labs/SoundWave/releases/download/v1.7.4/SoundWave-v1.7.4-linux-amd64.deb",
+      "deb_sha256": "17ba975615125bb79bdf1fe54bef7c05cec86a9e5f9e66bab5734146be7268a8",
+      "install_cmd": "curl -fsSL https://raw.githubusercontent.com/SoundWave-labs/SoundWave/main/install-linux.sh | sudo bash"
+    }
+  }
+}
