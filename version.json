@@ -1,0 +1,34 @@
+{
+  "version_code": 5019,
+  "version_name": "1.8.0",
+  "force_update": false,
+  "release_url": "https://github.com/SoundWave-labs/SoundWave/releases/tag/v1.8.0",
+  "changelog": [
+    "All features are now 100% FREE for everyone — no activation needed!",
+    "Unlocked Playlists, Favorites, History, Backup & All OLED/Studio Themes",
+    "Updated Freemium hub with community links & developer note"
+  ],
+  "apks": {
+    "arm64-v8a": {
+      "url": "https://github.com/SoundWave-labs/SoundWave/releases/download/v1.8.0/SoundWave-v1.8.0-arm64-v8a.apk",
+      "sha256": "015b8808bed3e158766c8ce1f547ea06226692a0d7ba89b29e9fc2a9927150c3"
+    },
+    "armeabi-v7a": {
+      "url": "https://github.com/SoundWave-labs/SoundWave/releases/download/v1.8.0/SoundWave-v1.8.0-armeabi-v7a.apk",
+      "sha256": "96b1d6d42048fdfe2443e08ada023e46a18c7c87da1a38d493d3d3f151c8d306"
+    },
+    "x86_64": {
+      "url": "https://github.com/SoundWave-labs/SoundWave/releases/download/v1.8.0/SoundWave-v1.8.0-x86_64.apk",
+      "sha256": "757fa3e55eaa91edbc74d0204679fcef7e6c3479c42d78097682008671349801"
+    }
+  },
+  "linux": {
+    "x86_64": {
+      "url": "https://github.com/SoundWave-labs/SoundWave/releases/download/v1.8.0/SoundWave-v1.8.0-linux-x64.tar.gz",
+      "sha256": "f3ba1b4049316b26eba9861e3416a8b9e2578ccdbc11b11e45d1d53a5b9af5f8",
+      "deb_url": "https://github.com/SoundWave-labs/SoundWave/releases/download/v1.8.0/SoundWave-v1.8.0-linux-amd64.deb",
+      "deb_sha256": "9d9d3a28e3fa66a78116f308ff0ece21795771736afc51179e22cad544e7d095",
+      "install_cmd": "curl -fsSL https://raw.githubusercontent.com/SoundWave-labs/SoundWave/main/install-linux.sh | sudo bash"
+    }
+  }
+}
